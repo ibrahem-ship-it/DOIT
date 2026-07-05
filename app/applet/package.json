@@ -1,0 +1,9 @@
+{
+  "name": "android-dummy",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Android build skipped in this container'",
+    "dev": "echo 'Android dev skipped'",
+    "lint": "echo 'Android lint skipped'"
+  }
+}
